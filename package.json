@@ -1,0 +1,11 @@
+{
+	"name": "@fansy/prettier-config",
+	"version": "1.0.0",
+	"main": "index.js",
+	"repository": "https://github.com/fanhaoyuan/prettier-config.git",
+	"author": "Fansy <418536538@qq.com>",
+	"license": "MIT",
+	"dependencies": {
+		"prettier": "^2.2.1"
+	}
+}
